@@ -124,3 +124,4 @@ footer {
     background: #2c3e50;
     color: #fff;
 }
+<img src="profile.jpg" alt="My Profile Picture" style="width:200px; border-radius:50%;">
